@@ -1,4 +1,6 @@
 xiaoMa：
         我学会了删除文件和上传仓库。嘿嘿。
 
-xiaoMa：xiaoNiu使用我的名字，下次注意哈@xiaoNiu。
+
+xiaoNiu: 刚才使用了xiaoMa的名字，不好意思@xiaoMa。
+
